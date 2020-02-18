@@ -1,0 +1,44 @@
+[TOC]
+
+
+
+#### 最值问题
+
+![1581851460498](C:\Users\quyuxi\AppData\Roaming\Typora\typora-user-images\1581851460498.png)
+
+==问谁设谁为x，反向推出数列，然后计算！==
+
+<img src="C:\Users\quyuxi\AppData\Roaming\Typora\typora-user-images\1581851736153.png" alt="1581851736153" style="zoom:80%;" />
+
+
+
+#### 工程问题
+
+![1581852180724](C:\Users\quyuxi\AppData\Roaming\Typora\typora-user-images\1581852180724.png)
+
+#### 行程问题
+
+![1581852219813](C:\Users\quyuxi\AppData\Roaming\Typora\typora-user-images\1581852219813.png)
+
+#### 排列组合
+
+![1581853795556](C:\Users\quyuxi\AppData\Roaming\Typora\typora-user-images\1581853795556.png)
+
+
+
+#### 容斥原理
+
+![1581854162296](C:\Users\quyuxi\AppData\Roaming\Typora\typora-user-images\1581854162296.png)
+
+#### 几何问题
+
+![1581854561326](C:\Users\quyuxi\AppData\Roaming\Typora\typora-user-images\1581854561326.png)
+
+
+
+
+
+
+
+
+
