@@ -1,0 +1,92 @@
+[TOC]
+
+
+
+# 组合排列
+
+## 核心思维
+
+### 找最大信息
+
+==最大信息，高频==
+
+### 找特殊要求
+
+### 排除法
+
+**优先排除法，用题干排除选项**
+
+### 代入法
+
+**把选项带入题干**
+
+
+
+![1581680182033](C:\Users\quyuxi\AppData\Roaming\Typora\typora-user-images\1581680182033.png)
+
+画线法：最大信息居中连线
+
+
+
+![1581680782755](C:\Users\quyuxi\AppData\Roaming\Typora\typora-user-images\1581680782755.png)
+
+只提到一次往往是真，丙乙提到一次为真
+
+![1581680873700](C:\Users\quyuxi\AppData\Roaming\Typora\typora-user-images\1581680873700.png)
+
+
+
+点名和被点名的都是假，上体oxo，所以乙和丙都是假，所以甲为真，甲士oxo，乙不是ofo
+
+
+
+
+
+
+
+# 论证模型
+
+## 数据论证
+
+**![1582283043947](C:\Users\quyuxi\AppData\Roaming\Typora\typora-user-images\1582283043947.png)**
+
+<img src="C:\Users\quyuxi\AppData\Roaming\Typora\typora-user-images\1582283111367.png" alt="1582283111367" style="zoom:67%;" />
+
+
+
+![1582283500074](C:\Users\quyuxi\AppData\Roaming\Typora\typora-user-images\1582283500074.png)
+
+
+
+
+
+![1582284052567](C:\Users\quyuxi\AppData\Roaming\Typora\typora-user-images\1582284052567.png)
+
+![1582284099558](C:\Users\quyuxi\AppData\Roaming\Typora\typora-user-images\1582284099558.png)
+
+![1582284351887](C:\Users\quyuxi\AppData\Roaming\Typora\typora-user-images\1582284351887.png)
+
+![1582284399112](C:\Users\quyuxi\AppData\Roaming\Typora\typora-user-images\1582284399112.png)
+
+![1582284752448](C:\Users\quyuxi\AppData\Roaming\Typora\typora-user-images\1582284752448.png)
+
+
+
+
+
+![1582285292433](C:\Users\quyuxi\AppData\Roaming\Typora\typora-user-images\1582285292433.png)
+
+
+
+
+
+### 可行性分析
+
+![1582285618297](C:\Users\quyuxi\AppData\Roaming\Typora\typora-user-images\1582285618297.png)
+
+
+
+
+
+![1582286626388](C:\Users\quyuxi\AppData\Roaming\Typora\typora-user-images\1582286626388.png)
+
